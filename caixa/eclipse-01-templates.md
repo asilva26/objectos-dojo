@@ -7,7 +7,6 @@ date: "2012-03-23"
 published: true
 partof: eclipse
 num: 1
-outof: 1
 ---
 
 ##Introdução
